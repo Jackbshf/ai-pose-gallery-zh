@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jackbshf.github.io/ai-pose-gallery-zh/sitemap.xml
